@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc4b3944.css",
-    "main.js": "/static/js/main.cd13b1cc.js",
-    "index.html": "/index.html",
-    "main.cc4b3944.css.map": "/static/css/main.cc4b3944.css.map",
-    "main.cd13b1cc.js.map": "/static/js/main.cd13b1cc.js.map"
+    "main.css": "/CryptoMons/static/css/main.cc4b3944.css",
+    "main.js": "/CryptoMons/static/js/main.cd13b1cc.js",
+    "index.html": "/CryptoMons/index.html",
+    "main.cc4b3944.css.map": "/CryptoMons/static/css/main.cc4b3944.css.map",
+    "main.cd13b1cc.js.map": "/CryptoMons/static/js/main.cd13b1cc.js.map"
   },
   "entrypoints": [
     "static/css/main.cc4b3944.css",
