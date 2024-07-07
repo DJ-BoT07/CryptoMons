@@ -19,7 +19,7 @@ const Coin = () => {
         }).catch((error) => {
             console.log(error)
         })
-    }, [])
+    }, [url])
 
     return (
         <div>
